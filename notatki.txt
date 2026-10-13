@@ -1,2 +1,2 @@
-jedna linijka tekstu
+Zmiana linijki tekstu
 druga linijka tekstu
