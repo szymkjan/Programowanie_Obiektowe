@@ -1,2 +1,4 @@
 Zmiana na main
+Zmiana linijki tekstu
+ poprawka
 druga linijka tekstu
